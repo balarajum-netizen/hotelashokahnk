@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Ashoka – Official Website & Booking",
+  "description": "Official website of Hotel Ashoka (hotelashoka.in). Book comfortable rooms, presidential & executive suites, dine at Kanishka Coffee Shop and Kadhambari, or host events at our premier banquet halls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
